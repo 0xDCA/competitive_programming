@@ -1,4 +1,4 @@
 competitive_programming
 =======================
 
-Solutions to competitive programming problems, with focus in readable code :)
+Solutions to competitive programming problems, focused in clean and readable code :)
